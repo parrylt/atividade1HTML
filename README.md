@@ -1,5 +1,5 @@
 # atividade1HTML
-o primeiro HTML de todos feito em aula para começar o aprendizado.
+o primeiro HTML de todos feito em aula para começar o aprendizado. Aula com o prof Rodrigo.
 <br><br>
 <div align="center">
   <h3>Página simples para começar o aprendizado de HTML</h3>
